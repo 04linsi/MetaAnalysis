@@ -1,0 +1,44 @@
+. metan var3 var4 var5 var6, label(namevar=var1, yearvar=var2) by(var7) fixed rr
+
+           Study     |     RR    [95% Conf. Interval]     % Weight
+---------------------+---------------------------------------------------
+     A
+Chen (2016)          |    0.383     0.147     1.001         14.23
+Duan (2016)          |    0.134     0.017     1.025          9.21
+Panici (2012)        |    0.267     0.068     1.050         10.43
+Qiu (2015)           |    1.000     0.262     3.815          3.82
+Sun (2018)           |    0.421     0.149     1.189          9.37
+Xie (2017)           |    0.683     0.260     1.793         10.77
+ Sub-total           |
+  M-H pooled RR      |    0.425     0.266     0.680         57.83
+---------------------+---------------------------------------------------
+     B
+Cui (2016)           |    0.200     0.010     3.959          3.19
+Gong (2017)          |    0.299     0.103     0.866         11.26
+Wang (2017)          |    1.100     0.680     1.779         12.45
+Wei (2018)           |    0.167     0.022     1.262          7.65
+Wu (2016)            |    0.024     0.001     0.458          7.63
+ Sub-total           |
+  M-H pooled RR      |    0.454     0.294     0.701         42.17
+---------------------+---------------------------------------------------
+Overall              |           
+  M-H pooled RR      |    0.437     0.316     0.606        100.00
+---------------------+---------------------------------------------------
+
+Test(s) of heterogeneity:
+               Heterogeneity  degrees of
+                 statistic     freedom      P    I-squared**
+A                    4.22          5      0.518      0.0%
+B                   18.65          4      0.001     78.6%
+Overall             23.65         10      0.009     57.7%
+** I-squared: the variation in RR attributable to heterogeneity)
+
+Note: between group heterogeneity not calculated;
+only valid with inverse variance method
+
+Significance test(s) of RR=1
+
+A                     z=  3.57     p = 0.000
+B                     z=  3.56     p = 0.000
+Overall               z=  4.97     p = 0.000
+-------------------------------------------------------------------------

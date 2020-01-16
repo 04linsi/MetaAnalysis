@@ -1,0 +1,12 @@
+Name,year,AABO_Events,AABO_NO_EVENT,NO_AABO_Events,NO_AABO_NO_EVENT,Type1,Type1,Type2,Type2
+Chen,2016,4,16,12,11,A,1,Alpha,1
+Cui,2016,0,24,2,22,B,2,Beta,2
+Duan,2016,1,31,7,23,A,1,Beta,2
+Gong,2017,5,48,6,13,B,2,Alpha,1
+Panici,2012,2,13,9,9,A,1,Alpha,1
+Qiu,2015,3,7,3,7,A,1,Beta,2
+Sun,2018,4,15,6,6,A,1,Alpha,1
+Wang,2017,7,3,21,12,B,2,Beta,2
+Wei,2018,1,19,6,14,B,2,Beta,2
+Wu,2016,0,230,3,35,B,2,Alpha,1
+Xie,2017,5,25,10,31,A,1,Alpha,1
